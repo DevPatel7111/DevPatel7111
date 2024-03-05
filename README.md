@@ -7,6 +7,8 @@
 - 🤝 I’m looking for help with **WEB APPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevPatel7111])
+  
+- 👨‍💻 Check my Geeks For Geeks [https://auth.geeksforgeeks.org/user/devpatelpw37]  
 
 - 💬 Ask me about **web development and Web2. 💜**
 
